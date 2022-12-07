@@ -1,0 +1,7 @@
+pass Admin
+rohmates: 567
+
+pass User
+indra: 890
+vina: 123
+danites: 123
